@@ -11,3 +11,6 @@ hello dev2
 git is a free software
 hello This is a test
 Test 
+hello push origin 
+pc 2 
+bu tong pc
